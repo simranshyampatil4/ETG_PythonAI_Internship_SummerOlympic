@@ -1,4 +1,4 @@
-# ETG_PythonAI_Internship_SummerOlympic
+# ETG_PythonAI_Internship_SummerOlympics
 
 In this assignment, I have to solve the following questions- 
 
