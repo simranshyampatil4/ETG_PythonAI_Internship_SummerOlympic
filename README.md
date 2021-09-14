@@ -1,6 +1,17 @@
-# ETG_PythonAI_Internship_SummerOlympics
+# ETG_SkillIndiaPythonForAI/ML_Internship_SummerOlympics
 
-In this assignment, I have to solve the following questions- 
+# About Project
+
+We have to preform detailed exploratory data analysis on Summer Olymics dataset And display the result visually.
+
+# Libraries Used
+
+1. Pandas
+2. Numpy
+3. Matplotlib
+4. Seaborn
+
+# In this assignment, I have to solve the following questions- 
 
 1.In how many cities Summer Olympics is held so far? 
 
@@ -18,15 +29,10 @@ In this assignment, I have to solve the following questions-
 
 8.Which sport is having most female Gold Medalists? (Top 5)
 
-# About Project
+# About Me
+Hii, I am Simran Shyam Patil a student from TE-IT, Currently I am intern at ETG-Skill_India_Python_for AI/ML_Internship
 
-We have to preform detailed exploratory data analysis on Summer Olymics dataset And display the result visually.
+# Links
+> LinkeIn: https://www.linkedin.com/in/simran-patil-8b18aa1a8/
 
-# Libraries Used
-
-1. Pandas
-2. Numpy
-3. Matplotlib
-4. Seaborn
-
-
+> Github: https://github.com/simranshyampatil4
